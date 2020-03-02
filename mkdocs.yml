@@ -1,6 +1,7 @@
 site_name: ZazXperience
 nav:
     - Home: index.md
-lang: fr
+    - Microservices: microservices/
+lang: ['fr']
 custom_dir: my_theme_customizations/
 theme: readthedocs
