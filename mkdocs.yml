@@ -1,7 +1,6 @@
 site_name: ZazXperience
 nav:
     - Home: index.md
-    - About: about.md
 lang: fr
 custom_dir: my_theme_customizations/
 theme: readthedocs
